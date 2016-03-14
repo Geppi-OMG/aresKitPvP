@@ -13,6 +13,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  * claiming any contents as your own will break the terms of licence, and void any
  * agreements with you, the third party.
  * Regards Incrementing - @Incrementing - http://Incrementing.pw
+ * test ~goppina
  * ***************************************************************************************
  */
 public class KitPvP extends JavaPlugin {
